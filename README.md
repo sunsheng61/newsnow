@@ -1,5 +1,7 @@
 ![](/public/og-image.png)
 
+#Low Altitude Radar System #低空情报系统
+
 English | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md)
 
 > [!NOTE]
